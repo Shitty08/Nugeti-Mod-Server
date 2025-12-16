@@ -9,14 +9,6 @@
             "description": "Die härteste AI. Combined Arms, Survival Logik, 1500pts Wellen.",
             "download_url": "HIER_DEN_DIRECT_LINK_ZU_DEINER_ZIP_EINFÜGEN",
             "folder_name": "NugetiAI_Mod"
-        },
-        {
-            "id": "nugeti_ai_fun",
-            "name": "Nugeti AI: Experimental",
-            "version": "0.5",
-            "description": "Beta Testversion mit neuen Taktiken.",
-            "download_url": "LINK_ZUR_ZWEITEN_MOD_ZIP",
-            "folder_name": "NugetiAI_Exp"
         }
     ]
 }
